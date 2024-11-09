@@ -3,7 +3,7 @@
 
 - 🔭 Cursando Faculdade de Analise e Desenvolvimento de Sistemas
 - 🌱 Estou estudando Java e React 
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 
 ##
 </br>
