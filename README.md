@@ -11,7 +11,7 @@
 <div>   
   <a hre="https://github.com/gersongt2">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=gersongt2&show_icons=true&theme=gruvbox">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersongt2&layout=compact&theme=synthwave">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersongt2&layout=compact&theme=synthwave">
 </div>
 
 ##
