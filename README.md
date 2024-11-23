@@ -3,7 +3,7 @@
 
 - 🔭 Cursando Faculdade de Analise e Desenvolvimento de Sistemas
 - 🌱 Estou estudando Java e React 
-- 😄 Pronomes: Ele/Dele
+
 
 ##
 </br>
@@ -28,7 +28,7 @@
   <img align="center" alt="Gerson-mysql" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img align="center" alt="Gerson-java" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Gerson-python" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="Gerson-linux" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img margin-left="100px" align="center" alt="Gerson-linux" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
   
 
