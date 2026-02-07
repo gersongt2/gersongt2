@@ -2,8 +2,8 @@
 
 
 - 🔭 Cursando Faculdade de Analise e Desenvolvimento de Sistemas
-- 🌱 Estou estudando Java e React 
-
+- 🔭 Formado Engenharia de Software 
+- 🌱 Estou estudando Java e React  
 
 ##
 </br>
