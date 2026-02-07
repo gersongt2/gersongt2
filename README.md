@@ -40,7 +40,7 @@ Redes socias
 <br/>
 <div> 
   
-  <a href="https://www.linkedin.com/in/gerson-silva-6856ab21b/" target="_blank">
+  <a href="https://www.linkedin.com/in/gerson-silva-carneiro-6856ab21blipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxHqde5hJSguNhT7D4oQ6sQ%3D%3D" target="_blank">
   <img height="30px" alt="Gerson-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gersonsilva0387@gmail.com" target="_blank" >
