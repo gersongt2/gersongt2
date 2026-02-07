@@ -5,9 +5,13 @@
 - 🌱 Estou estudando Java e React  
 
 ##
+<div>
+<a href="https://github.com/gersongt2">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=gersongt2&show_icons=true&theme=gruvbox">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersongt2&layout=compact&theme=synthwave">
+</a>
 
-![Gerson's GitHub stats](https://img.shields.io/github/followers/gersongt2?label=Followers&style=for-the-badge)
-![Gerson's repos](https://img.shields.io/github/repos/gersongt2?style=for-the-badge)
+<div/>
 
 
 
