@@ -1,8 +1,7 @@
 ## Oi! Eu sou Gerson Silva Carneiro 👋
 
-
-- 🔭 Cursando Faculdade de Analise e Desenvolvimento de Sistemas
 - 🔭 Formado Engenharia de Software 
+- 🔭 Cursando Faculdade de Analise e Desenvolvimento de Sistemas
 - 🌱 Estou estudando Java e React  
 
 ##
