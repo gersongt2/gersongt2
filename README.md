@@ -6,9 +6,10 @@
 
 ##
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gersongt2&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github.com/gersongt2/github-readme-stats/raw/main/generated/overview.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gersongt2&layout=compact&theme=default&hide_border=true)
+![Top Langs](https://github.com/gersongt2/github-readme-stats/raw/main/generated/languages.svg)
+
 
 
 ##
