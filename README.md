@@ -6,9 +6,9 @@
 
 ##
 
-![GitHub Stats](https://github.com/gersongt2/github-readme-stats/raw/main/generated/overview.svg)
+![Gerson's GitHub stats](https://img.shields.io/github/followers/gersongt2?label=Followers&style=for-the-badge)
+![Gerson's repos](https://img.shields.io/github/repos/gersongt2?style=for-the-badge)
 
-![Top Langs](https://github.com/gersongt2/github-readme-stats/raw/main/generated/languages.svg)
 
 
 
