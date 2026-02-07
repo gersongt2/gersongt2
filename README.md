@@ -5,6 +5,7 @@
 - 🌱 Estou estudando Java e React  
 
 ##
+<!--
 <div>
 <a href="https://github.com/gersongt2">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=gersongt2&show_icons=true&theme=gruvbox">
@@ -12,7 +13,7 @@
 </a>
 
 <div/>
-
+-->
 
 
 
