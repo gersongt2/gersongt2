@@ -8,10 +8,10 @@
 </br>
 
 <div>   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gersongt2&show_icons=true&theme=gruvbox)](https://github.com/gersongt2)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gersongt2&layout=compact&theme=synthwave)](https://github.com/gersongt2)
-
-
+<a href="https://github.com/gersongt2">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=gersongt2&show_icons=true&theme=gruvbox">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersongt2&layout=compact&theme=synthwave">
+</a>
 </div>
 
 ##
