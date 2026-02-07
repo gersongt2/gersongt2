@@ -5,14 +5,11 @@
 - 🌱 Estou estudando Java e React  
 
 ##
-</br>
 
-<div>   
-<a href="https://github.com/gersongt2">
-    <img height="170px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gersongt2&show_icons=true&theme=default&cache_seconds=1800">
-    <img height="170px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gersongt2&layout=compact&theme=default&cache_seconds=1800">
-  </a>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gersongt2&show_icons=true&theme=default&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gersongt2&layout=compact&theme=default&hide_border=true)
+
 
 ##
 
