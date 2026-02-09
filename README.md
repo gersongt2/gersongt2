@@ -2,7 +2,6 @@
 
 - 🔭 Formado Engenharia de Software 
 - 🔭 Cursando Faculdade de Analise e Desenvolvimento de Sistemas
-- 🌱 Estou estudando Java e React  
 
 ##
 <!--
