@@ -1,5 +1,6 @@
 ## Oi! Eu sou Gerson Silva Carneiro 👋
 
+- Junior Full-Stack Developer | HTML, CSS, JS, TypeScript, Java, SQL | Projects for learning and practice
 - 🔭 Formado Engenharia de Software 
 - 🔭 Cursando Faculdade de Analise e Desenvolvimento de Sistemas
 
